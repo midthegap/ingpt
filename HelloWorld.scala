@@ -5,4 +5,5 @@ object HelloWorld extends App {
 	println("Buon giorno da Alice")
 
 	println("Presto altre funzioni")
+	println(s"Funzione a = ${FunzioneA.f()}")
 }
