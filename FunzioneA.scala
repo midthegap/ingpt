@@ -1,5 +1,5 @@
 object FunzioneA {
 	def f(): Int = {
-		0
+		scala.util.Random.nextInt
 	}
 }
